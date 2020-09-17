@@ -1,0 +1,28 @@
+{
+  "name": "versionator",
+  "version": "1.0.0",
+  "description": "Give your next file version a twist!",
+  "main": "lib/versionator.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minkiele/versionator.git"
+  },
+  "keywords": [
+    "Versionator",
+    "file",
+    "version",
+    "fun"
+  ],
+  "author": "Michele Montagner <michele.montagner@nttdata.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minkiele/versionator/issues"
+  },
+  "homepage": "https://github.com/minkiele/versionator#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
